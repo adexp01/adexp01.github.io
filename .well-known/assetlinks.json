@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.belyashvcmetahe.rememberingtimemobile",
+      "sha256_cert_fingerprints": [
+        "9B:C8:85:E1:F5:C5:80:8F:09:85:F9:8D:73:3B:F7:E0:9A:29:25:F8:B3:96:31:2C:16:CF:DD:51:A3:51:05:D6"
+      ]
+    }
+  }
+]
